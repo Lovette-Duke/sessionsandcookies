@@ -1,0 +1,32 @@
+fieldset {
+	background: #f6d1f5;
+	margin-left: 500px;
+	margin-right: 500px;
+	margin-top: 100px;
+	padding:0;
+}
+
+h1 {margin: 0;} 
+
+#formlabel {
+	padding: 20px 0;
+	margin: 0 0 30px;
+	width: auto;
+	text-align: center;
+	color: white;
+	border-bottom: solid, 1px;
+	background-color: #3a0344;
+}
+.marginclass {
+	margin-left: 40px;
+}
+
+#signinbutton {
+	background: #3a0344;
+	color: white;
+	border: solid 1px #3a0344;
+	padding: 10px;
+	margin: 20px 140px;
+	font-size: 13px;
+	text-align: center;
+}
